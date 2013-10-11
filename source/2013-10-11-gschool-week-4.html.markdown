@@ -14,4 +14,4 @@ working in small groups is nice and for specific things like learning hashes, i 
 
 next week, we move on to web applications.  i'm excited to see what i can build and how pushing things to the web differs from just running programs in the terminal.  i obviously <3 the internets, so learning to build things to put there is pretty darn exciting.
 
-![Alt text][http://memecrunch.com/meme/ONU8/i-love-the-interwebz/image.png]
+![Alt text][id]: http://memecrunch.com/meme/ONU8/i-love-the-interwebz/image.png
