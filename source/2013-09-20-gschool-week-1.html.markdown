@@ -6,7 +6,7 @@ tags: week 1
 
 <h2>Week 2 (week 1?) retrospective</h2>
 
-<p>so i guess we're required to update this blog on the norm.  it's been a while since i maintained such a text-y blog with thoughts and feelings and more than just .gifs to express my emptions, but i suppose i'll give it a go.</p>
+<p>so i guess we're required to update this blog on the norm.  it's been a while since i maintained such a text-y blog with thoughts and feelings and more than just .gifs to express my emotions, but i suppose i'll give it a go.</p>
 
 
 <p>at the end of this week, i'm annoyed with myself more than anything. i've not been feeling well and thus have not been physically able to put in the time i wish i could have to master concepts and contribute to projects.  in fact, i've barely touched Event Reporter, our first official project.  instead of working into the wee hours of the nights, i've spent much of this time crying and vomiting.  it's been really excellent.</p>
