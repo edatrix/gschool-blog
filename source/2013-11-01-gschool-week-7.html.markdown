@@ -1,7 +1,7 @@
 ---
 title: gSchool - week 7
 date: 2013-11-01 15:15 UTC
-tags:
+tags:ruby, sinatra, clone wars
 ---
 
 <h2>week 7 retrospective</h2>

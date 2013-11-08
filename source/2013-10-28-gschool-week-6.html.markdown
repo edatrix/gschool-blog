@@ -1,7 +1,7 @@
 ---
 title: gSchool - week 6
 date: 2013-10-28 15:21 UTC
-tags:
+tags:ruby, ideabox, sinatra
 ---
 
 <h2>week 6 retrospective</h2>

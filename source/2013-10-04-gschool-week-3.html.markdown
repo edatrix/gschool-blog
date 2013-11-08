@@ -1,7 +1,7 @@
 ---
 title: gSchool - Week 3
 date: 2013-10-04 15:11 UTC
-tags: Week 3
+tags: ruby
 ---
 
 <h2>Week 3 retrospective</h2>
