@@ -1,7 +1,7 @@
 ---
 title: gSchool - week 5
 date: 2013-10-18 15:06 UTC
-tags:ruby
+tags: ruby
 ---
 
 <h2>week 5 retrospective</h2>

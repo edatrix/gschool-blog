@@ -1,7 +1,7 @@
 ---
 title: gSchool - week 4
 date: 2013-10-11 15:03 UTC
-tags:ruby, focus week
+tags: ruby, focus week
 ---
 
 <h2>Week 4 retrospective</h2>

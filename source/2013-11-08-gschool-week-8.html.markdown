@@ -1,7 +1,7 @@
 ---
 title: gschool - week 8
 date: 2013-11-08 17:19 UTC
-tags:dinner dash, ruby, rails
+tags: dinner dash, ruby, rails
 ---
 
 <h2>week 8 retrospective</h2>
