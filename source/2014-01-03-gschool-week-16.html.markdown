@@ -1,7 +1,7 @@
 ---
-title: 2014-1-3-gschool-week-16.html.markdown
+title: gSchool week 16
 date: 2014-01-03 16:10 UTC
-tags:gschool, week 16, prospective 
+tags:
 ---
 
 <h2>week 16 *prospective*</h2>
